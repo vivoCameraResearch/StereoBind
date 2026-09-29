@@ -8,6 +8,7 @@
 
   <p>
     <a href="https://github.com/vivoCameraResearch/StereoBind"><img src="https://img.shields.io/badge/GitHub-StereoBind-181717?logo=github" alt="GitHub"></a>
+    <a href="https://vivocameraresearch.github.io/Stereo-Bind-Project/"><img src="https://img.shields.io/badge/Project-Page-7c3aed?logo=githubpages&logoColor=white" alt="Project Page"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache--2.0-blue.svg" alt="Apache 2.0 License"></a>
     <img src="https://img.shields.io/badge/Status-Coming%20Soon-f59e0b" alt="Coming soon">
   </p>
